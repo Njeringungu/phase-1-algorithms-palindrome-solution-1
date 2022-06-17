@@ -13,6 +13,9 @@ function isPalindrome(word) {
 /* 
   Add your pseudocode here
 */
+//start index should be less that the word length 
+//the string is not palindrome if the start and end index dont match
+//return false if that's the case
 
 /*
   Add written explanation of your solution here
